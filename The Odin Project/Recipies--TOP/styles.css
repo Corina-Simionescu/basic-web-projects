@@ -1,0 +1,42 @@
+h1 {
+  color: #9400d3;
+  text-align: center;
+  font-size: 64px;
+  background-color: #dcd0ff;
+}
+
+.donut-cartoon {
+  height: auto;
+  width: 800px;
+  align-items: center;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.link-donut-1 {
+  background-color: hsl(278, 56%, 83%);
+}
+
+.link-donut-2 {
+  background-color: hsl(278, 74%, 73%) ;
+}
+
+.link-donut-3 {
+  background-color: hsl(278, 77%, 57%);
+}
+
+a {
+  color: black;
+  text-decoration: none;
+  font-size: 40px;
+  text-align: center;
+
+}
+
+a:hover {
+  text-decoration: underline;
+}

@@ -1,0 +1,21 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+button {
+    text-align: center;
+    width: 70px;
+    padding: 5px;
+    margin: 20px;
+    border-radius: 7px;
+}
+
+.board {
+    width: 500px;
+    height: 500px;
+    display: grid;
+    border-style: solid;
+}

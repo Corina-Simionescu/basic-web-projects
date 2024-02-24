@@ -1,0 +1,23 @@
+h1 {
+  color: #9400d3;
+  text-align: center;
+  font-size: 64px;
+  background-color: #dcd0ff;
+}
+
+.donut-image {
+  height: auto;
+  width: 800px;
+  align-items: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+ul, ol {
+    font-size: 32px;
+}
